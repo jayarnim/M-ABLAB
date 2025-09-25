@@ -1,5 +1,7 @@
 # Artificial Intelligence for Business Opt. Lab
 
+- period: 2024.01.04. ~ 2025.08.20.
+
 </br>
 
 ## Publication
