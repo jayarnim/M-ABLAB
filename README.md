@@ -6,7 +6,7 @@
 
 ## Publication
 
-- BACF: Bayesian Attentional Collaborative Filtering [`paper`]() [`repo`]()
+- BACF: Bayesian Attentional Collaborative Filtering [`paper`](https://doi.org/10.3390/app151910402) [`repo`]()
 
 </br>
 
