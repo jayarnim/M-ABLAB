@@ -25,13 +25,13 @@
 - `2024.04.24.` latent factor model using cnn [`ConvNCF`](https://github.com/jayarnim/RS-ConvNCF) [`COMET`](https://github.com/jayarnim/RS-COMET)
 - `2024.05.08.` latent factor model using attention mechanism [`DACR`](https://github.com/jayarnim/RS-DACR) [`DRNet`](https://github.com/jayarnim/RS-DRNet) [`DELF`](https://github.com/jayarnim/RS-DELF)
 - `2024.05.22.` user free models [`FISM`](https://github.com/jayarnim/RS-FISM) [`NAIS`](https://github.com/jayarnim/RS-NAIS)
-- `2024.06.05.` autoencoder based collaborative filtering [`AutoRec`]() [`CDAE`]() [`Mult-VAE`]()
+- `2024.06.05.` autoencoder based collaborative filtering [`CDAE`](https://github.com/jayarnim/RS-CDAE) [`Mult-VAE`](https://github.com/jayarnim/RS-Mult-VAE)
 
 ### Implicit Feedback
 
 - `2024.06.19.` research plan (2)
 - `2024.07.03.` one class collaborative filtering
-- `2024.07.17.` expomf: exposure variable modeling [`expomf`]()
+- `2024.07.17.` expomf: exposure variable modeling [`expomf`](https://github.com/jayarnim/RS-ExpoMF)
 - `2024.07.31.` bpr: pairwise loss function for latent factor model
 - `2024.08.14.` listmle: listwise loss function for latent factor model
 - `2024.08.28.` lambdarank: listwise loss function for latent factor model
