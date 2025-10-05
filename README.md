@@ -25,6 +25,9 @@
 - `2024.04.24.` latent factor model using cnn [`ConvNCF`](https://github.com/jayarnim/RS-ConvNCF) [`COMET`](https://github.com/jayarnim/RS-COMET)
 - `2024.05.08.` latent factor model using attention mechanism [`DACR`](https://github.com/jayarnim/RS-DACR) [`DRNet`](https://github.com/jayarnim/RS-DRNet) [`DELF`](https://github.com/jayarnim/RS-DELF)
 - `2024.05.22.` user free models [`FISM`](https://github.com/jayarnim/RS-FISM) [`NAIS`](https://github.com/jayarnim/RS-NAIS)
+
+### AE based Collaborative Filtering
+
 - `2024.06.05.` autorec
 - `2024.06.19.` cdae [`CDAE`](https://github.com/jayarnim/RS-CDAE)
 - `2024.07.03.` mult-vae [`Mult-VAE`](https://github.com/jayarnim/RS-Mult-VAE)
