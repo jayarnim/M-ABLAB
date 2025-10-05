@@ -25,24 +25,24 @@
 - `2024.04.24.` latent factor model using cnn [`ConvNCF`](https://github.com/jayarnim/RS-ConvNCF) [`COMET`](https://github.com/jayarnim/RS-COMET)
 - `2024.05.08.` latent factor model using attention mechanism [`DACR`](https://github.com/jayarnim/RS-DACR) [`DRNet`](https://github.com/jayarnim/RS-DRNet) [`DELF`](https://github.com/jayarnim/RS-DELF)
 - `2024.05.22.` user free models [`FISM`](https://github.com/jayarnim/RS-FISM) [`NAIS`](https://github.com/jayarnim/RS-NAIS)
-- `2024.06.05.` autoencoder based collaborative filtering [`CDAE`](https://github.com/jayarnim/RS-CDAE) [`Mult-VAE`](https://github.com/jayarnim/RS-Mult-VAE)
+- `2024.06.05.` autorec
+- `2024.06.19.` cdae [`CDAE`](https://github.com/jayarnim/RS-CDAE)
+- `2024.07.03.` mult-vae [`Mult-VAE`](https://github.com/jayarnim/RS-Mult-VAE)
 
 ### Implicit Feedback
 
-- `2024.06.19.` research plan (2)
-- `2024.07.03.` one class collaborative filtering
-- `2024.07.17.` expomf: exposure variable modeling [`expomf`](https://github.com/jayarnim/RS-ExpoMF)
-- `2024.07.31.` bpr: pairwise loss function for latent factor model
-- `2024.08.14.` climf: listwise loss function for latent factor model
-- `2024.08.28.` bayesian attention modules [`bam`](https://github.com/jayarnim/BAYES-BAM)
+- `2024.07.17.` research plan (2)
+- `2024.07.31.` one class collaborative filtering
+- `2024.08.14.` expomf: exposure variable modeling [`expomf`](https://github.com/jayarnim/RS-ExpoMF)
+- `2024.08.28.` bpr: pairwise loss function for latent factor model
+- `2024.09.05.` climf: listwise loss function for latent factor model
+- `2024.09.19.` bayesian attention modules [`bam`](https://github.com/jayarnim/BAYES-BAM)
 
 ### Research
 
-- `2024.09.05.` research proposal
-- `2024.09.19.` report for 2024 kllss fall conference (1) architecture
-- `2024.10.02.` report for 2024 kllss fall conference (2) experiment
-- `2024.10.16.` report for 2024 kllss fall conference (3) abstract
-- `2024.10.30.` report for 2024 kllss fall conference (4) ppt
+- `2024.10.02.` research proposal
+- `2024.10.16.` report for 2024 kllss fall conference (1) abstract
+- `2024.10.30.` report for 2024 kllss fall conference (2) ppt
 - `2025.01.23.` report for thesis defense (1) overview
 - `2025.02.20.` report for thesis defense (2) proposed model experiment
 - `2025.03.25.` report for thesis defense (3) comparison model experiment
