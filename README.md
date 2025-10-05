@@ -33,16 +33,16 @@
 - `2024.07.03.` one class collaborative filtering
 - `2024.07.17.` expomf: exposure variable modeling [`expomf`](https://github.com/jayarnim/RS-ExpoMF)
 - `2024.07.31.` bpr: pairwise loss function for latent factor model
-- `2024.08.14.` listmle: listwise loss function for latent factor model
-- `2024.08.28.` lambdarank: listwise loss function for latent factor model
-- `2024.09.05.` climf: listwise loss function for latent factor model
-- `2024.09.19.` bayesian attention modules [`bam`](https://github.com/jayarnim/BAYES-BAM)
+- `2024.08.14.` climf: listwise loss function for latent factor model
+- `2024.08.28.` bayesian attention modules [`bam`](https://github.com/jayarnim/BAYES-BAM)
 
 ### Research
 
-- `2024.10.02.` research proposal
-- `2024.10.16.` report for 2024 kllss fall conference (1) abstract
-- `2024.10.30.` report for 2024 kllss fall conference (2) ppt
+- `2024.09.05.` research proposal
+- `2024.09.19.` report for 2024 kllss fall conference (1) architecture
+- `2024.10.02.` report for 2024 kllss fall conference (2) experiment
+- `2024.10.16.` report for 2024 kllss fall conference (3) abstract
+- `2024.10.30.` report for 2024 kllss fall conference (4) ppt
 - `2025.01.23.` report for thesis defense (1) overview
 - `2025.02.20.` report for thesis defense (2) proposed model experiment
 - `2025.03.25.` report for thesis defense (3) comparison model experiment
