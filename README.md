@@ -34,8 +34,8 @@
 - `2024.07.17.` research plan (2)
 - `2024.07.31.` one class collaborative filtering
 - `2024.08.14.` expomf: exposure variable modeling [`expomf`](https://github.com/jayarnim/RS-ExpoMF)
-- `2024.08.28.` bpr: pairwise loss function for latent factor model
-- `2024.09.05.` climf: listwise loss function for latent factor model
+- `2024.08.28.` bpr: pairwise loss function for latent factor model [`bpr`](https://github.com/jayarnim/RS-BPR)
+- `2024.09.05.` climf: listwise loss function for latent factor model [`climf`](https://github.com/jayarnim/RS-CLiMF)
 - `2024.09.19.` bayesian attention modules [`bam`](https://github.com/jayarnim/BAYES-BAM)
 
 ### Research
