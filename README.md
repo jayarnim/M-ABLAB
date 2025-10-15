@@ -2,13 +2,10 @@
 
 - period: 2024.01.04. ~ 2025.08.20.
 
-</br>
-
 ## Publication
 
-- BACF: Bayesian Attentional Collaborative Filtering [`paper`](https://doi.org/10.3390/app151910402) [`repo`]()
-
-</br>
+- `journal` BACF: Bayesian Attentional Collaborative Filtering [`paper`](https://doi.org/10.3390/app151910402) [`repo`]()
+- `conference` BAMF: Bayesian Attentional Matrix Factorization [`repo`]()
 
 ## Lab Seminar
 
@@ -30,13 +27,13 @@
 
 - `2024.06.05.` autorec
 - `2024.06.19.` cdae [`CDAE`](https://github.com/jayarnim/RS-CDAE)
-- `2024.07.03.` mult-vae [`Mult-VAE`](https://github.com/jayarnim/RS-Mult-VAE)
+- `2024.07.03.` mult-vae
 
 ### Implicit Feedback
 
 - `2024.07.17.` research plan (2)
 - `2024.07.31.` one class collaborative filtering
-- `2024.08.14.` expomf: exposure variable modeling [`expomf`](https://github.com/jayarnim/RS-ExpoMF)
+- `2024.08.14.` expomf: exposure variable modeling
 - `2024.08.28.` bpr: pairwise loss function for latent factor model [`bpr`](https://github.com/jayarnim/RS-BPR)
 - `2024.09.05.` climf: listwise loss function for latent factor model [`climf`](https://github.com/jayarnim/RS-CLiMF)
 - `2024.09.19.` bayesian attention modules [`bam`](https://github.com/jayarnim/BAYES-BAM)
