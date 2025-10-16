@@ -4,8 +4,8 @@
 
 ## Publication
 
-- `journal` BACF: Bayesian Attentional Collaborative Filtering [`paper`](https://doi.org/10.3390/app151910402) [`repo`]()
-- `conference` BAMF: Bayesian Attentional Matrix Factorization [`repo`]()
+- `journal` BACF: Bayesian Attentional Collaborative Filtering [`paper`](https://doi.org/10.3390/app151910402) [`repo`](https://github.com/jayarnim/BACF)
+- `conference` BAMF: Bayesian Attentional Matrix Factorization [`repo`](https://github.com/jayarnim/BAMF)
 
 ## Lab Seminar
 
